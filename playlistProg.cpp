@@ -1,6 +1,5 @@
 // Name: Emilio Maset
 // File Name: prog5.cpp
-// Date: 30 March, 2023
 // Program Description: this program loads a playlist into a linked list from a text file, and then allows the user to display the playlist and remove songs.
 
 #include <iostream>
